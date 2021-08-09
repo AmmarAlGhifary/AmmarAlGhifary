@@ -7,6 +7,8 @@
 </em></p>
 
 
-[![Linkedin: AmmarAlGhifary] (https://www.linkedin.com/in/ammaralghifary/)
-[![GitHub AmmarAlGhifary] (https://github.com/AmmarAlGhifary)
+```kotlin
+
+}
+```
 

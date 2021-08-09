@@ -8,7 +8,10 @@
 
 
 ```kotlin
-
-}
+  companion object {
+        fun start(Ammar: AlGhifary) {
+            val code : String = "Kotlin, Java, HTML, CSS, Javascript"
+        }
+    }
 ```
 

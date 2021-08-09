@@ -9,9 +9,13 @@
 
 ```kotlin
   companion object {
-        fun start(Ammar: AlGhifary) {
+        fun profile(Ammar: AlGhifary) {
             val code : String = "Kotlin, Java, HTML, CSS, Javascript"
+            val tools : String = "Android Studio, Visual Studio, Bitbucket, Git, Figma
+            val architecture : String = "MVVM, MVP, MVC"
         }
     }
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmarAlGhifary)](https://github.com/anuraghazra/github-readme-stats)
 

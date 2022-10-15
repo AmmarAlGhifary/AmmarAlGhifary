@@ -10,9 +10,9 @@
 ```kotlin
   companion object {
         fun profile(Ammar: AlGhifary) {
-            val code : String = "Kotlin, Java, HTML, CSS, Javascript"
+            val code : String = "Kotlin, Java, HTML, CSS, Javascrip, Angular"
             val tools : String = "Android Studio, Visual Studio, Bitbucket, Git, Figma
-            val architecture : String = "MVVM, MVP, MVC"
+    
         }
     }
 ```

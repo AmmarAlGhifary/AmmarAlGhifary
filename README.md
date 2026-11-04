@@ -33,8 +33,10 @@ I'm a software engineer in Jakarta, Indonesia. I build native Android apps in Ko
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmmarAlGhifary&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAlGhifary&layout=compact&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/AmmarAlGhifary?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAlGhifary?style=for-the-badge&logo=github&label=Followers" alt="Followers" /></a>
+  <a href="https://github.com/AmmarAlGhifary?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmmarAlGhifary" alt="Public repos" /></a>
+  <a href="https://github.com/AmmarAlGhifary/blueprint"><img src="https://img.shields.io/github/stars/AmmarAlGhifary/blueprint?style=for-the-badge&logo=github&label=Blueprint%20stars" alt="Blueprint stars" /></a>
+  <img src="https://img.shields.io/maven-central/v/io.github.ammaralghifary/blueprint-core?style=for-the-badge&label=Blueprint%20on%20Maven%20Central" alt="Blueprint on Maven Central" />
 </p>
 
 ## Connect

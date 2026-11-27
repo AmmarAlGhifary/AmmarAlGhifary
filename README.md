@@ -17,7 +17,7 @@ I'm a software engineer in Jakarta, Indonesia. I build native Android apps in Ko
 
 ## Projects
 
-- **[Blueprint](https://github.com/AmmarAlGhifary/blueprint)**: an Android library that turns JSON from a server into native Jetpack Compose screens. Published on Maven Central.
+- **[Blueprint](https://github.com/AmmarAlGhifary/blueprint)**: a KMP library that turns JSON from a server into native screens. Published on Maven Central.
 - **[CineStream](https://github.com/AmmarAlGhifary/cinestream-sdui)**: a movie app built on server-driven UI, with a [TypeScript backend](https://github.com/AmmarAlGhifary/cinestream-sdui-backend) deployed on Vercel.
 
 ## Skills
